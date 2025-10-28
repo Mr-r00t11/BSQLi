@@ -11,8 +11,8 @@
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/bsqli.git
-cd bsqli
+git clone https://github.com/Mr-r00t11/BSQLi.git
+cd BSQLi
 pip3 install requests urllib3
 ```
 
