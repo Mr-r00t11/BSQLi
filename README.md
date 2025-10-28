@@ -1,4 +1,5 @@
 # BSQLi - Blind SQL Injection Scanner
+![](https://github.com/Mr-r00t11/BSQLi/blob/main/img/BSQLi.png?raw=true)
 
 **BSQLi** is an advanced Blind SQL Injection scanner that uses time-based detection techniques to identify vulnerabilities in web applications.
 
